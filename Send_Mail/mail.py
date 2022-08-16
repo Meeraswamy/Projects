@@ -1,4 +1,5 @@
 # Python code to Sending mail from your Gmail account
+# You should enable "Send Mail from Third-party apps" option to send mail.
 import smtplib
 
 # creates SMTP session
